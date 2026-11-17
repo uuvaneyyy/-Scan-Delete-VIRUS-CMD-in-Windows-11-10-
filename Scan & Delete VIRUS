@@ -1,0 +1,8 @@
+CMD AUN CORP
+| `tasklist` | Shows all currently running programs and processes on your PC. C
+| `taskkill /F /IM processname.exe` | Forcefully closes a selected program or process. 
+| `attrib -h -s -r /s /d *.*` | Removes Hidden, System and Read-only attributes from files and folders.
+| `dir` | Displays files and folders in the current location.
+| `del filename` | Deletes a specified file.
+| `msconfig` | Opens System Configuration to manage startup and boot settings.
+| `start windowsdefender:` | Opens Windows Security (if supported on your Windows version).
